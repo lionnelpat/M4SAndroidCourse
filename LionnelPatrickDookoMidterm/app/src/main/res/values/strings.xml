@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Comodo Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about_comoros">About Comoros</string>
+    <string name="action_new_conversion">New Conversion</string>
+    <string name="welcome_txt"> Welcome In Comoros ! </string>
+    <string name="convert">Convert</string>
+
+    <string name="description">    Comoros has endured more than 20 coups or attempted coups since gaining independence from France in 1975. \n
+        In 1997, the islands of Anjouan and Moheli declared independence from Comoros. In 1999, military chief Col. \n \n
+        AZALI seized power in a bloodless coup, and helped negotiate the 2000 Fomboni Accords power-sharing agreement in which the federal presidency rotates among the three islands,
+        and each island maintains its own local government. AZALI won the 2002 Presidential election, and each island in the archipelago elected its own president.\n \n
+        AZALI stepped down in 2006 and President SAMBI was elected to office. In 2007, BACAR effected Anjouan\'s de-facto secession from the Union,
+        refusing to step down in favor of fresh Anjouanais elections when Comoros\' other islands held legitimate elections in July.\n \n
+        The African Union (AU) initially attempted to resolve the political crisis by applying sanctions and a naval blockade on Anjouan,
+        but in March 2008, AU and Comoran soldiers seized the island. The move was generally welcomed by the island\'s inhabitants.\n \n
+
+        scource : http://www.nationsonline.org/oneworld/comoros.htm
+    </string>
+
+</resources>
